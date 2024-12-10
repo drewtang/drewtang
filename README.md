@@ -14,14 +14,14 @@ Mocksi simplifies demo creation for complex enterprise products, reducing weeks 
 A modern financial management app for testing Mocksi’s capabilities, designed to simulate SaaS workflows.  
 - **Key Features**: Invoice workflows, transaction tracking, financial analytics, and team management.  
 - **Tech Stack**: React, Node.js, PostgreSQL, Tailwind CSS.  
-- [Repository](https://github.com/yourusername/finance-dashboard)  
+- [Repository](https://github.com/Mocksi/finance-dashboard/)  
 
 ### **HAR Analyzer**  
 A robust tool for analyzing HTTP Archive (HAR) files, delivering AI-powered insights for developers, QA engineers, and sales teams.  
 - **Key Features**: Real-time HAR analysis, persona-based insights, and performance metrics.  
 - **Tech Stack**: React (frontend), Node.js/Redis/OpenAI (backend).  
-- [Frontend Repository](https://github.com/yourusername/har-analyzer-frontend)  
-- [Backend Repository](https://github.com/yourusername/har-analyzer-backend)  
+- [Frontend Repository](https://github.com/Mocksi/har-analyzer-frontend)  
+- [Backend Repository](https://github.com/Mocksi/har-analyzer-backend)  
 
 ---
 
