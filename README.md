@@ -2,9 +2,9 @@
 **CEO & Co-Founder at [Mocksi](https://mocksi.ai)**  
 
 ## 🚀 About Me  
-I specialize in bridging the gap between product strategy and engineering execution. With over 19 years in the startup world, I've built and scaled multiple SaaS products, balancing technical and Go-to-Market (GTM) challenges. My latest venture, Mocksi, is revolutionizing enterprise software demos with AI-driven solutions.
+I specialize in bridging the gap between product strategy and engineering execution. With over 19 years in the startup world, I've built and scaled multiple SaaS products, balancing technical and Go-to-Market (GTM) challenges. Currently building, Mocksi, to revolutionize enterprise software demos with AI-driven solutions.
 
-Mocksi simplifies demo creation for complex enterprise products, reducing weeks of effort to mere minutes. Our innovative tools empower sales teams and developers alike by integrating state simulation, API testing, and front-end customizations.
+Mocksi simplifies demo creation for complex enterprise products, reducing weeks of effort to mere minutes. Our tools empower sales teams and developers alike by integrating state simulation, API testing, and front-end customizations.
 
 ---
 
