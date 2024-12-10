@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Drew Dillon 👋  
+**CEO & Co-Founder at [Mocksi](https://mocksi.ai)**  
 
-<!--
-**drewtang/drewtang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I specialize in bridging the gap between product strategy and engineering execution. With over 19 years in the startup world, I've built and scaled multiple SaaS products, balancing technical and Go-to-Market (GTM) challenges. My latest venture, Mocksi, is revolutionizing enterprise software demos with AI-driven solutions.
 
-Here are some ideas to get you started:
+Mocksi simplifies demo creation for complex enterprise products, reducing weeks of effort to mere minutes. Our innovative tools empower sales teams and developers alike by integrating state simulation, API testing, and front-end customizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Current Projects  
+
+### **Finance Dashboard**  
+A modern financial management app for testing Mocksi’s capabilities, designed to simulate SaaS workflows.  
+- **Key Features**: Invoice workflows, transaction tracking, financial analytics, and team management.  
+- **Tech Stack**: React, Node.js, PostgreSQL, Tailwind CSS.  
+- [Repository](https://github.com/yourusername/finance-dashboard)  
+
+### **HAR Analyzer**  
+A robust tool for analyzing HTTP Archive (HAR) files, delivering AI-powered insights for developers, QA engineers, and sales teams.  
+- **Key Features**: Real-time HAR analysis, persona-based insights, and performance metrics.  
+- **Tech Stack**: React (frontend), Node.js/Redis/OpenAI (backend).  
+- [Frontend Repository](https://github.com/yourusername/har-analyzer-frontend)  
+- [Backend Repository](https://github.com/yourusername/har-analyzer-backend)  
+
+---
+
+## 💻 Tech Expertise  
+- **Languages**: Python, JavaScript (ES6+), TypeScript, Ruby  
+- **Frameworks**: React, Django, Rails, Express.js  
+- **Tools**: Redis, OpenAI, Docker, Tailwind CSS  
+- **Deployment**: Render.com, AWS, Heroku  
+
+---
+
+## 🤝 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/drewdil/)  
+- [Mocksi Website](https://mocksi.ai)  
