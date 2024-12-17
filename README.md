@@ -10,34 +10,23 @@ Mocksi simplifies demo creation for complex enterprise products, reducing weeks 
 
 ## 🛠️ Current Projects  
 
-### **Finance Dashboard**  
-A modern financial management app for testing Mocksi’s capabilities, designed to simulate SaaS workflows.  
-- **Key Features**: Invoice workflows, transaction tracking, financial analytics, and team management.  
-- **Tech Stack**: React, Node.js, PostgreSQL, Tailwind CSS.  
-- [Repository](https://github.com/Mocksi/finance-dashboard/)  
+### **Mocksi Projects**  
+- **JSON RAG Integration**  
+   Integrates nested JSON into RAG systems with smart chunking, summarization, and debugging.  
+   - [Repository](https://github.com/Mocksi/json-rag)  
 
-### **JSON RAG Integration**  
-A tool for integrating nested JSON data into RAG (Retrieval-Augmented Generation) systems with enhanced context tracking and debugging.  
-- **Key Features**: Smart archetype detection, intent-aware chunking, and query-specific summarization.  
-- **Tech Stack**: Python, OpenAI API, PostgreSQL.  
-- [Repository](https://github.com/Mocksi/json-rag)  
+- **Finance Dashboard**  
+   A financial management app to test Mocksi’s capabilities with simulated SaaS workflows.  
+   - [Repository](https://github.com/Mocksi/finance-dashboard/)  
 
-### **HAR Analyzer**  
-A robust tool for analyzing HTTP Archive (HAR) files, delivering AI-powered insights for developers, QA engineers, and sales teams.  
-- **Key Features**: Real-time HAR analysis, persona-based insights, and performance metrics.  
-- **Tech Stack**: React (frontend), Node.js/Redis/OpenAI (backend).  
-- [Frontend Repository](https://github.com/Mocksi/har-analyzer-frontend)  
-- [Backend Repository](https://github.com/Mocksi/har-analyzer-backend)  
+- **HAR Analyzer**  
+   AI-powered tool for analyzing HTTP Archive (HAR) files with persona-based insights.  
+   - [Frontend](https://github.com/Mocksi/har-analyzer-frontend) | [Backend](https://github.com/Mocksi/har-analyzer-backend)  
 
-### **Skyview**  
-A real-time analytics platform for the Bluesky social network, built with Django and Celery.  
-- **Key Features**:  
-  - Ingestion layer connects to the Bluesky Firehose using `atproto` and `websockets` for real-time event decoding.  
-  - PostgreSQL database enhanced by TimescaleDB for efficient time-series queries.  
-  - Celery tasks process raw events, extract hashtags, compute rolling trends, and prepare data for the frontend.  
-  - API returns trending hashtags and activity metrics, with D3.js rendering dynamic visualizations.  
-- **Tech Stack**: Django, Celery, PostgreSQL/TimescaleDB, Redis, D3.js.  
-- [Repository](https://github.com/drewtang/skyview)  
+### **Personal Project**  
+- **Skyview**  
+   Real-time analytics platform for tracking Bluesky events and trends.  
+   - [Repository](https://github.com/drewtang/skyview)  
 
 ---
 
