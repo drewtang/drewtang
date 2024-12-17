@@ -16,6 +16,12 @@ A modern financial management app for testing Mocksi’s capabilities, designed 
 - **Tech Stack**: React, Node.js, PostgreSQL, Tailwind CSS.  
 - [Repository](https://github.com/Mocksi/finance-dashboard/)  
 
+### **JSON RAG Integration**  
+A tool for integrating nested JSON data into RAG (Retrieval-Augmented Generation) systems with enhanced context tracking and debugging.  
+- **Key Features**: Smart archetype detection, intent-aware chunking, and query-specific summarization.  
+- **Tech Stack**: Python, OpenAI API, PostgreSQL.  
+- [Repository](https://github.com/Mocksi/json-rag)  
+
 ### **HAR Analyzer**  
 A robust tool for analyzing HTTP Archive (HAR) files, delivering AI-powered insights for developers, QA engineers, and sales teams.  
 - **Key Features**: Real-time HAR analysis, persona-based insights, and performance metrics.  
