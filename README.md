@@ -1,43 +1,37 @@
-# Hi, I'm Drew Dillon 👋  
-**CEO & Co-Founder at [Mocksi](https://mocksi.ai)**  
+# Hi, I'm Drew Dillon 👋
 
-## 🚀 About Me  
-I specialize in bridging the gap between product strategy and engineering execution. With over 19 years in the startup world, I've built and scaled multiple SaaS products, balancing technical and Go-to-Market (GTM) challenges. Currently building Mocksi to revolutionize enterprise software demos with AI-driven solutions.
+**CEO & Founder at Brief**
 
-Mocksi simplifies demo creation for complex enterprise products, reducing weeks of effort to mere minutes. Our tools empower sales teams and developers alike by integrating state simulation, API testing, and front-end customizations.
+## 🚀 About Me
 
----
+I build AI infrastructure for product teams. With 19+ years scaling startups, I led Yammer's Product & Platform team (employee #60) from $1.5M to $30M ARR through Microsoft's $1.2B acquisition. Since then, I've worked with 20+ startups as fractional Chief Product Officer, consistently doubling engineering velocity.
 
-## 🛠️ Current Projects  
+Now building **Brief** - the AI Chief Product Officer that gives coding agents business judgment. Brief prevents catastrophic AI mistakes by providing context, decision memory, and priority intelligence to development teams.
 
-### **Mocksi Projects**  
-- **JSON RAG Integration**  
-   Integrates nested JSON into RAG systems with smart chunking, summarization, and debugging.  
-   - [Repository](https://github.com/Mocksi/json-rag)  
+## 🛠️ Current Projects
 
-- **Finance Dashboard**  
-   A financial management app to test Mocksi’s capabilities with simulated SaaS workflows.  
-   - [Repository](https://github.com/Mocksi/finance-dashboard/)  
+### Some of my experiments
+* **JSON RAG Integration** - Nested JSON chunking and summarization for AI context systems
+  * [Repository](https://github.com/Mocksi/json-rag)
+* **HAR Analyzer** - AI-powered HTTP Archive analysis with persona-based insights
+  * [Frontend](https://github.com/Mocksi/HarCensor) | [Backend](https://github.com/Mocksi/HarCensor-backend)
 
-- **HAR Analyzer**  
-   AI-powered tool for analyzing HTTP Archive (HAR) files with persona-based insights.  
-   - [Frontend](https://github.com/Mocksi/har-analyzer-frontend) | [Backend](https://github.com/Mocksi/har-analyzer-backend)  
+### Personal
+* **Skyview** - Real-time analytics for Bluesky social network
+  * [Repository](https://github.com/drewtang/skyview)
 
-### **Personal Project**  
-- **Skyview**  
-   Real-time analytics platform for tracking Bluesky events and trends.  
-   - [Repository](https://github.com/drewtang/skyview)  
+## 💻 Tech Stack
 
----
+* **Languages**: Python, JavaScript/TypeScript, Ruby
+* **Frameworks**: React, Django, Rails, Express.js
+* **AI/ML**: OpenAI, RAG systems, LLM integrations
+* **Infrastructure**: Redis, Docker, AWS, Render.com
 
-## 💻 Tech Expertise  
-- **Languages**: Python, JavaScript (ES6+), TypeScript, Ruby  
-- **Frameworks**: React, Django, Rails, Express.js  
-- **Tools**: Redis, OpenAI, Docker, Tailwind CSS  
-- **Deployment**: Render.com, AWS, Heroku  
+## 🤝 Connect
+
+* [LinkedIn](https://www.linkedin.com/in/drewdil/)
+* [Brief](https://briefhq.ai)
 
 ---
 
-## 🤝 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/drewdil/)  
-- [Mocksi Website](https://mocksi.ai)  
+*Building product judgment systems for the age of AI agents*
